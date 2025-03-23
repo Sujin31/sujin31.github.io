@@ -4,7 +4,6 @@ title: "Git과 GitHub 소개"
 date: 2025-03-15
 categories:
   - Git
-  - Version Control
 tags:
   - Git
   - GitHub
