@@ -65,8 +65,10 @@ GET/ /product? …
     - **간단한 필터링**에는 매우 유용하지만, **복잡한 필터링**이나 **민감한 데이터 처리**에는 적합X
 2.  **filter를 쓰자** 
     
-    [filter와 Specification](https://www.notion.so/filter-Specification-1bd0e03aad348034b6d4c759a825d994?pvs=21)
-    
+3. **한 키값에 여러 값이 들어가는 경우**
+
+    ⇒ 콤마( , )로 구분해서 넣어주기
+
 
 ---
 
