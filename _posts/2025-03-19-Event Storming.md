@@ -2,9 +2,9 @@
 title: "Event Storming"
 date: 2025-03-19
 description: "이벤트 스토밍"
-categories: 
+categories:
   - Workshop
-  - EventStorming
+  - 1차 Project
 tags: 
   - EventStorming
 ---

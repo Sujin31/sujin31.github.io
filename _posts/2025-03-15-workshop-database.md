@@ -2,9 +2,9 @@
 title: "RDB 기초 및 데이터베이스 설계"
 date: 2025-03-15
 description: "RDB 기본 개념 및 설계 원칙 정리"
-categories: 
+categories:
   - Workshop
-  - RDB
+  - 1차 Project
 tags: 
   - RDB
   - 설계

@@ -2,9 +2,9 @@
 title: "패키지구조 정리"
 date: 2025-03-15
 description: "실습 패키지구조 정리"
-categories: 
+categories:
   - Workshop
-  - package structure
+  - 1차 Project
 tags: 
   - package
   - structure

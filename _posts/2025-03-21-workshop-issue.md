@@ -2,9 +2,9 @@
 title: "쿼리스트링 filter 및 주문 결제 로직 등"
 date: 2025-03-19
 description: "API 정의서 및 ERD 궁금한거 정리"
-categories: 
+categories:
   - Workshop
-  - issue
+  - 1차 Project
 tags: 
   - issue
   - API
