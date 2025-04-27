@@ -126,7 +126,7 @@ public class Product {
 }
 
 @Entity
-public class MemberProduct {  // 중간 엔티티 직접 생성
+public class MemberProduct {  -- 중간 엔티티 직접 생성
     @Id @GeneratedValue
     private Long id;
 
@@ -136,7 +136,7 @@ public class MemberProduct {  // 중간 엔티티 직접 생성
     @ManyToOne
     private Product product;
 
-    private LocalDateTime createdAt; // 추가 속성
+    private LocalDateTime createdAt; -- 추가 속성
 }
 
 ```

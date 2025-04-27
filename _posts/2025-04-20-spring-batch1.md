@@ -1,7 +1,7 @@
 ---
-title: "Spring Batch 5.x - 2"
+title: "Spring Batch 5.x - 1"
 date: 2025-04-27
-description: "Spring Batch 5버전 실습"
+description: "Spring Batch 5버전 사용하면서 기본 지식, 실습, 프로젝트의 정리"
 categories:
   - Spring
   - Spring Batch
