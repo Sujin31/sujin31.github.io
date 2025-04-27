@@ -1,6 +1,6 @@
 ---
 title: "Spring Batch 5.x - 2"
-date: 2025-04-20
+date: 2025-04-27
 description: "Spring Batch 5버전 실습"
 categories:
   - Spring
