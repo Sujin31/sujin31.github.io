@@ -1,3 +1,16 @@
+---
+title: "1차 프로젝트 정리 - Batch error 처리 테스트"
+date: 2025-05-10
+description: "1차 프로젝트 Batch 중 error 발생 시 데이터 정합성 테스트해보기"
+categories:
+  - Workshop
+  - 1차 Project
+tags:
+  - Workshop
+  - Project
+  - Spring Batch
+---
+
 # 배치 오류 처리
 
 - `JpaCursorItemReader`는 상태 관리 기능을 제공하는 `ItemStreamReader`를 상속받아 배치 작업이 오류로 인해 중지되었을 경우, 오류가 났던 부분에서 **재실행**이 가능
@@ -36,3 +49,6 @@
 
 9. 같은Job parameter로 실행(첫번째 에러, 두번째 완료) → Job instance는 하나, Job excution은 두개가 생성됨~~
 ![image.png](/assets/post_img/250510/image7.png)
+
+
+추가적으로 배치 오류 처리 어떤식으로 할건지 고민
